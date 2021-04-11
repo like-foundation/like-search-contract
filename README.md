@@ -11,7 +11,7 @@ Like Search is a different search engine, there is no centralized organization t
 The core of Like Search is a smart contract deployed on the Ethereum network. Users can deposit any amount of LKS. We call this transaction "like". Users can withdraw their LKS at any time. Like and withdraw transactions constitute a decentralized and retractable anonymous voting mechanism, which allows the favorable URLs to be displayed first. Smart contracts ensure the safety of funds and the fairness of voting. Like Search not only uses blockchain technology, but also uses distributed crawlers and distributed databases to enhance the search experience.
 
 ## Website
-[https://like.foundation/](https://like.foundation/)
+[https://likesearch.org/](https://likesearch.org/)
 
 ## Contract Addresses
 ### Mainnet
